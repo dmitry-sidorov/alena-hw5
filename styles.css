@@ -1,0 +1,24 @@
+div {
+  height: 1000px; width: auto;
+  font-size: 50px;
+  text-align: center;
+  color: black;
+}
+li {
+  font-size: 20px;
+  text-align: center;
+  list-style: none;
+}
+
+div.one {
+  background-color: red;
+}
+div.two {
+ background-color: yellow;
+}
+div.three {
+ background-color: orange;
+}
+div.four {
+ background-color: green;
+}
